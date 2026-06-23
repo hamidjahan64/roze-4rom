@@ -6,3 +6,5 @@ I want to start with the planing
 let's clear that
 the project is 
 about crypto
+the most famous cryptocurrency
+is the BTC
