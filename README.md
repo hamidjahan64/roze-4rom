@@ -10,3 +10,5 @@ the most famous cryptocurrency
 is the BTC
 and follow the BTC
 Is ETH the second most popular coin
+the third coin
+is the BNB coin
