@@ -12,3 +12,5 @@ and follow the BTC
 Is ETH the second most popular coin
 the third coin
 is the BNB coin
+we can also check
+the token prices in
