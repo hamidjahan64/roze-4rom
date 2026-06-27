@@ -14,3 +14,5 @@ the third coin
 is the BNB coin
 we can also check
 the token prices in
+online platforms and
+DEXs to be aware of informations.
