@@ -16,3 +16,6 @@ we can also check
 the token prices in
 online platforms and
 DEXs to be aware of informations.
+next step will be
+choose an element
+
