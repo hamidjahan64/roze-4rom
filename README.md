@@ -1,21 +1,24 @@
 # roze-4rom
 4rom
 add
-it is the fifth day
-I want to start with the planing
+It is the fifth day
+I want to start with the planning
 let's clear that
-the project is 
+The project is 
 about crypto
 the most famous cryptocurrency
-is the BTC
+Is the BTC
 and follow the BTC
 Is ETH the second most popular coin
 the third coin
-is the BNB coin
-we can also check
+Is the BNB coin
+We can also check
 the token prices in
 online platforms and
-DEXs to be aware of informations.
+DEXs to be aware of information.The 
 next step will be
-choose an element
+Choose an element
+like the marketcap
+or dexes, which represent the tokens
+
 
