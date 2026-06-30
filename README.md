@@ -19,6 +19,9 @@ DEXs to be aware of information.The
 next step will be
 Choose an element
 like the marketcap
-or dexes, which represent the tokens
+or dexes, which represent the tokens.
+after that charge with some USD
+your account and select a coin
+
 
 
