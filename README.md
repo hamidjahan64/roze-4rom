@@ -22,6 +22,9 @@ like the marketcap
 or dexes, which represent the tokens.
 after that charge with some USD
 your account and select a coin
+to buy that coin
+and transfer to your personal wallet
+
 
 
 
