@@ -23,7 +23,10 @@ or dexes, which represent the tokens.
 after that charge with some USD
 your account and select a coin
 to buy that coin
-and transfer to your personal wallet
+and transfer to your personal wallet.
+just check the destination address
+and also the destination chain to
+
 
 
 
