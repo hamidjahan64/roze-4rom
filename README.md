@@ -27,7 +27,10 @@ and transfer to your personal wallet.
 just check the destination address
 and also the destination chain to
 prevent losing your tokkens
-and assets and be sureof true address.
+and assets, and be sure of the true address.
+the main address is layer 2 on
+eth which many tokens and chains
+
 
 
 
