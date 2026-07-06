@@ -31,7 +31,10 @@ and assets, and be sure of the true address.
 the main address is layer 2 on
 eth which many tokens and chains 
 are on the represented chain.
-it is all you need to know
+it is all you need to know.
+the most important point is
+that the crypto market always
+
 
 
 
