@@ -33,7 +33,10 @@ eth which many tokens and chains
 are on the represented chain.
 it is all you need to know.
 the most important point is
-that the crypto market always
+that the crypto market always 
+go up or down
+and the main point is you must be
+
 
 
 
