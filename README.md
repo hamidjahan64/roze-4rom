@@ -36,6 +36,10 @@ the most important point is
 that the crypto market always 
 go up or down
 and the main point is you must be
+patiant and always try
+to hunt the oppurtunities.
+
+
 
 
 
